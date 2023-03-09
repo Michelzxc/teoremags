@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=67.6.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "teoremags"
+version = "0.0.1"
+authors = [
+  { name="Michael Da Rosa", email="micheldarosazxc@gmail.com" },
+]
+description = "Define teoremas y ecuaciones."
+readme = "README.rst"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3.11",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: POSIX :: Linux",
+    "Operating System :: Microsoft :: Windows :: Windows 10",
+    "Operating System :: Microsoft :: Windows :: Windows 11",
+    "Topic :: Utilities",
+    "Topic :: Education",
+    "Natural Language :: Spanish",
+]
+dependencies = [
+
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Michelzxc/teoremags"
