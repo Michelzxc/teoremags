@@ -1,0 +1,1 @@
+"""Funciones de equivalencias genéricas."""
